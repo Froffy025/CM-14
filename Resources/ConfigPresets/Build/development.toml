@@ -1,8 +1,8 @@
-﻿[game]
+[game]
 # Straight in-game baby
 lobbyenabled = false
 # Dev map for faster loading & convenience
-map = "CMDev"
+map = "Boot"
 role_timers = false
 
 [gateway]

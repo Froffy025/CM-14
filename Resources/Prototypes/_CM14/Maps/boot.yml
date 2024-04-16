@@ -1,7 +1,7 @@
 - type: gameMap
-  id: CMDev
-  mapName: CMDev
-  mapPath: /Maps/_CM14/dev_map.yml
+  id: Boot
+  mapName: Boot
+  mapPath: /Maps/_CM14/boot.yml
   minPlayers: 0
   stations:
     Dev:
